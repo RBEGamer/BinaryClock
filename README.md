@@ -21,7 +21,7 @@ The software has the same features as the LixieClock or WordClock project.
 
 ### ASSEMBLY
 
-![complete_clock](./documentation/images/Bildschirmfoto_2023-03-09_um_22.56.54.png)
+![complete_clock](./documentation/images/Bildschirm­foto_2023-03-09_um_22.56.54.png)
 
 
 ![complete_clock](./documentation/images/2023-03-08_14.04.34.jpg)
